@@ -13,8 +13,8 @@ class ofApp : public ofBaseApp{
         void exit();
         void keyPressed(int key);
     
-        ofxLibRealSense2 _realsense2;
-        ofxPanel         _gui;
+        ofxLibRealSense2 realsense;
+        ofxPanel gui;
     
         ofTexture tex;
         ofxSyphonServer syphon;
