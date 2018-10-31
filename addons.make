@@ -1,2 +1,3 @@
+ofxGui
 ofxLibRealSense2
 ofxSyphon
